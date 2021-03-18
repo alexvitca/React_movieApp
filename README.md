@@ -1,7 +1,7 @@
 ## Movies App w/ React
 
     - API calls
-    - Searc
+    - Search
     - Movie Info
 
     APIs used:
